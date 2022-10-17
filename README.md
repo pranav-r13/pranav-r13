@@ -9,7 +9,6 @@ I'm Pranav, a Computer science student 💻.
 <!-- TODO: Add last video link -->
 
 - :seedling: I’m currently learning Flask.
-- :musical note: I’m currently learning Flask.
 - 🤔 I’m looking for an internship.
 
 
