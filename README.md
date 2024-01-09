@@ -20,6 +20,7 @@ I'm Pranav, a Computer science student 💻.
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
+|<img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width = 40>
 |<img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" width=80> 
 | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
