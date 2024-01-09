@@ -8,8 +8,9 @@ I'm Pranav, a Computer science student 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning Flask.
-- 🤔 I’m looking for an internship.
+- :seedling:I’m currently learning Microsoft Power Platform.
+- 🧑‍💻 I'm working at Alleima India as an IT Intern
+- 🤔 I work out of Pune, India.
 
 
 🤝 &nbsp; Connect with Me
