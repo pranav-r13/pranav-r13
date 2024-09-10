@@ -4,13 +4,13 @@
 
 <h1 align="center"> Hi! I'm Pranav<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Pranav, a Computer science student 💻.
+I'm Pranav, a Certified Ethical Hacker 💻.
 
 <!-- TODO: Add last video link -->
 
-- :seedling:I’m currently learning Microsoft Power Platform.
-- 🧑‍💻 I'm working at Alleima India as an IT Intern
-- 🤔 I work out of Pune, India.
+- :seedling:I’m currently learning Web application testing using Burp Suite.
+<!--- 🧑‍💻 I'm currently looking= -->
+- 🤔 I work out of Chennai, India.
 
 
 🤝 &nbsp; Connect with Me
