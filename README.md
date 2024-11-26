@@ -24,7 +24,7 @@ I'm Pranav, a Certified Ethical Hacker 💻.
 |<img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" width = 40>
 |<img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width = 40>
 |<img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" width=80> 
-| <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> 
+<!--| <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40">  -->
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> 
 | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  
@@ -38,12 +38,13 @@ I'm Pranav, a Certified Ethical Hacker 💻.
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> 
 
 <hr>
-
-### ⚙️ &nbsp; Git Analytics
+<!--
+### ⚙️ &nbsp; Git Analytics -->
  
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pranrav-r13&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=dark&layout=compact" width="410" /></p> -->
 
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-r13&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13)
+<!--![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranav-r13&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13) -->
