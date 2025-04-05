@@ -9,8 +9,8 @@ A Certified Ethical Hacker💻
 <!-- TODO: Add last video link -->
 
 - 🤔 I work out of Chennai, India.
-- 🧑‍💻 My work mainly includes conducting vulnerability analysis and Pentesting.
-- :seedling:I’m currently learning Web application testing using Burp Suite.
+- 🧑‍💻 I do Vulnerability assessments and Pentesting.
+- :seedling:I’m currently learning Malware Analysis.
 
 🤝 &nbsp; Connect with Me
 
