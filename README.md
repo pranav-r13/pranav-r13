@@ -6,11 +6,9 @@
 
 A Certified Ethical Hacker💻
 
-<!-- TODO: Add last video link -->
-
-- 🤔 I work out of Chennai, India.
+- 💼 I work out of Chennai, India.
 - 🧑‍💻 I do Vulnerability assessments and Pentesting.
-- :seedling:I’m currently learning Malware Analysis.
+- :seedling:I’m .
 
 🤝 &nbsp; Connect with Me
 
