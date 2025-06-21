@@ -16,7 +16,7 @@ A Certified Ethical Hacker💻
 
 <hr>
 
-### 🛠 &nbsp Tools I use :
+### 🛠 Tools I use :
 - Tenable Nessus, IO, Rapid7 InsightVM, InsightAppSec
 - Nmap, Metasploit
 - Burp Suite, Postman, MobSF
