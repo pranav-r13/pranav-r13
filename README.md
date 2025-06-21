@@ -17,7 +17,7 @@ A Certified Ethical Hacker💻
 <hr>
 
 ### 🛠 &nbsp; Tech Stack
-[<img src="https://skillicons.dev/icons?i=cpp,py,swift,html,css,dotnet,bootstrap,mysql,kali,postman,figma&perline=6" />]
+<img src="https://skillicons.dev/icons?i=cpp,py,swift,html,css,dotnet,bootstrap,mysql,kali,postman,figma&perline=6" />
 
 <hr>
 <!--
