@@ -15,8 +15,14 @@ A Certified Ethical Hacker💻
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranav-r13/)
 
 <hr>
+### 🛠 Tools I use :
+- Tenable Nessus, IO, Rapid7 InsightVM, InsightAppSec
+- Nmap, Metasploit
+- Burp Suite, Postman, MobSF
 
-### 🛠 &nbsp; Tech Stack
+<hr>
+
+### 🧑‍💻 &nbsp; Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,py,swift,html,css,dotnet,bootstrap,mysql,kali,postman,figma&perline=6" />
 
 <hr>
