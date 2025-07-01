@@ -20,7 +20,7 @@ A Certified Ethical Hacker💻
 - Tenable Nessus, IO, Rapid7 InsightVM
 - Nmap, Metasploit, SQLMap, WPScan, Nikto, Gobuster, Dirb, Hydra
 - Burp Suite, Postman, MobSF
-- InsightAppSec, Brup Dast, FortiDast
+- InsightAppSec
 - Gophish, FortiPhish
 
 <hr>
