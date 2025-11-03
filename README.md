@@ -7,7 +7,7 @@
 A Certified Ethical Hacker💻
 
 - 💼 I work out of Chennai, India.
-- 🧑‍💻 I do Vulnerability assessments and Pentesting.
+- 🧑‍💻 I work as a Security Testing Engineer.
 - :seedling:I’m currently learning about Threat Intelligence using OpenCTI.
 
 🤝 &nbsp; Connect with Me
