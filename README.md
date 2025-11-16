@@ -30,7 +30,7 @@ A Certified Ethical Hacker💻
 
 <hr>
 
-I spend my time mostly coding : <br>
+I spend my time coding in<br>
 
 ![pranav-r13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!--
