@@ -29,6 +29,9 @@ A Certified Ethical Hacker💻
 <img src="https://skillicons.dev/icons?i=cpp,py,swift,html,css,dotnet,bootstrap,mysql,kali,postman,figma" />
 
 <hr>
+
+I spend my time mostly coding :
+![pranav-r13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav-r13&theme=tokyonight&hide_border=false)
 <!--
 ### ⚙️ &nbsp; Git Analytics -->
  
