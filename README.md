@@ -31,7 +31,8 @@ A Certified Ethical Hacker💻
 <hr>
 
 I spend my time mostly coding : <br>
-![pranav-r13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav-r13&theme=tokyonight&hide_border=false)
+
+![pranav-r13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!--
 ### ⚙️ &nbsp; Git Analytics -->
  
