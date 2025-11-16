@@ -30,7 +30,7 @@ A Certified Ethical Hacker💻
 
 <hr>
 
-I spend my time mostly coding :
+I spend my time mostly coding : <br>
 ![pranav-r13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav-r13&theme=tokyonight&hide_border=false)
 <!--
 ### ⚙️ &nbsp; Git Analytics -->
