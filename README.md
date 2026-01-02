@@ -28,11 +28,11 @@ A Certified Ethical Hacker💻
 ### 🧑‍💻 &nbsp; Tech Stack
 <img src="https://skillicons.dev/icons?i=cpp,py,swift,html,css,dotnet,bootstrap,mysql,kali,postman,figma" />
 
-<hr>
+<!-- <hr>
 
 I spend my time coding in<br>
 
-![pranav-r13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![pranav-r13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-r13&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) -->
 <!--
 ### ⚙️ &nbsp; Git Analytics -->
  
